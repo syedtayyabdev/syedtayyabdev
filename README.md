@@ -1,8 +1,6 @@
 ## Hi there 👋
-
 # 💫 About Me:
 I'm Syed Tayyab, a Full Stack Developer and Shopify Expert with 3+ years of experience. I specialize in building modern web applications, e-commerce stores, and responsive websites using the latest technologies.<br><br><br>My skills include HTML5, CSS3, JavaScript, ReactJS, Node.js, and Shopify development. I'm passionate about creating clean, efficient code and delivering solutions that drive results.<br><br><br>When I'm not coding, you'll find me analyzing stock markets or exploring new technologies. I'm always eager to take on new challenges and collaborate on exciting projects.
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/trendvaultus1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-tayyab-377ba8396/) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/syedtayyabdev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact.syedtayyab@gmail.com) 
